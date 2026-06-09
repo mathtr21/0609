@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="✨ MBTI 직업 추천 | Career Guide",
     page_icon="🔮",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",
 )
 
 MBTI_DATA = {
