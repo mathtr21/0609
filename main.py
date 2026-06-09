@@ -1,6 +1,5 @@
 import streamlit as st
 
-# ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="✨ MBTI 직업 추천 | Career Guide",
     page_icon="🔮",
@@ -8,7 +7,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-# ── MBTI Data ─────────────────────────────────────────────────────────────────
 MBTI_DATA = {
     "INTJ": {
         "nickname": "전략가 🧠",
@@ -275,7 +273,6 @@ MBTI_GROUPS = {
     "🟡 탐험가형 (SP)": ["ISTP", "ISFP", "ESTP", "ESFP"],
 }
 
-# ── CSS ───────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Space+Grotesk:wght@400;600;700&display=swap');
@@ -286,7 +283,6 @@ st.markdown("""
     background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
     min-height: 100vh;
 }
-
 #MainMenu, footer, header { visibility: hidden; }
 .block-container { padding: 2rem 3rem 4rem 3rem; max-width: 1200px; margin: 0 auto; }
 
