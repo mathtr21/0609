@@ -9,9 +9,7 @@ st.set_page_config(
 
 MBTI_DATA = {
     "INTJ": {
-        "nickname": "전략가 🧠",
-        "emoji": "♟️",
-        "color": "#6C63FF",
+        "nickname": "전략가 🧠", "emoji": "♟️", "color": "#6C63FF",
         "gradient": "linear-gradient(135deg, #6C63FF 0%, #3F3D56 100%)",
         "desc": "독립적이고 결단력 있는 전략가. 복잡한 문제를 체계적으로 해결하는 능력이 탁월합니다.",
         "traits": ["🎯 목표 지향적", "🔍 분석적 사고", "📐 체계적", "💡 혁신적"],
@@ -25,9 +23,7 @@ MBTI_DATA = {
         ],
     },
     "INTP": {
-        "nickname": "논리술사 🔭",
-        "emoji": "⚗️",
-        "color": "#00BCD4",
+        "nickname": "논리술사 🔭", "emoji": "⚗️", "color": "#00BCD4",
         "gradient": "linear-gradient(135deg, #00BCD4 0%, #0D47A1 100%)",
         "desc": "지식에 대한 끝없는 갈증을 가진 철학자. 이론과 아이디어의 세계에서 살아갑니다.",
         "traits": ["🧩 논리적", "🌐 창의적", "📚 지식 탐구", "🤔 비판적 사고"],
@@ -41,9 +37,7 @@ MBTI_DATA = {
         ],
     },
     "ENTJ": {
-        "nickname": "통솔자 👑",
-        "emoji": "🦁",
-        "color": "#FF6B35",
+        "nickname": "통솔자 👑", "emoji": "🦁", "color": "#FF6B35",
         "gradient": "linear-gradient(135deg, #FF6B35 0%, #C0392B 100%)",
         "desc": "타고난 리더십으로 목표를 향해 돌진하는 통솔자. 큰 그림을 그리고 실현시킵니다.",
         "traits": ["🚀 리더십", "💪 결단력", "🌟 카리스마", "🎯 목표 달성"],
@@ -57,9 +51,7 @@ MBTI_DATA = {
         ],
     },
     "ENTP": {
-        "nickname": "변론가 🎭",
-        "emoji": "💬",
-        "color": "#FF9800",
+        "nickname": "변론가 🎭", "emoji": "💬", "color": "#FF9800",
         "gradient": "linear-gradient(135deg, #FF9800 0%, #E65100 100%)",
         "desc": "아이디어의 불꽃이 튀는 토론가. 도전과 논쟁을 즐기며 혁신을 이끕니다.",
         "traits": ["💡 아이디어 뱅크", "🗣️ 토론 즐김", "🔄 유연한 사고", "🚀 혁신적"],
@@ -73,9 +65,7 @@ MBTI_DATA = {
         ],
     },
     "INFJ": {
-        "nickname": "옹호자 🌸",
-        "emoji": "🔮",
-        "color": "#9C27B0",
+        "nickname": "옹호자 🌸", "emoji": "🔮", "color": "#9C27B0",
         "gradient": "linear-gradient(135deg, #9C27B0 0%, #4A148C 100%)",
         "desc": "깊은 통찰과 이상주의로 세상을 더 나은 곳으로 만들려는 조용한 완벽주의자.",
         "traits": ["💫 통찰력", "❤️ 공감 능력", "🌱 이상주의", "🎯 사명감"],
@@ -89,9 +79,7 @@ MBTI_DATA = {
         ],
     },
     "INFP": {
-        "nickname": "중재자 🌈",
-        "emoji": "🦋",
-        "color": "#E91E63",
+        "nickname": "중재자 🌈", "emoji": "🦋", "color": "#E91E63",
         "gradient": "linear-gradient(135deg, #E91E63 0%, #880E4F 100%)",
         "desc": "이상과 가치를 소중히 여기는 몽상가. 인류에 대한 사랑과 창의성이 넘칩니다.",
         "traits": ["🎨 창의적", "💖 공감 능력", "🌟 이상주의", "🕊️ 평화 추구"],
@@ -105,9 +93,7 @@ MBTI_DATA = {
         ],
     },
     "ENFJ": {
-        "nickname": "선도자 🌟",
-        "emoji": "🌠",
-        "color": "#4CAF50",
+        "nickname": "선도자 🌟", "emoji": "🌠", "color": "#4CAF50",
         "gradient": "linear-gradient(135deg, #4CAF50 0%, #1B5E20 100%)",
         "desc": "타인의 성장을 돕는 카리스마 넘치는 리더. 사람들에게 영감을 주고 변화를 이끕니다.",
         "traits": ["🌟 카리스마", "❤️ 따뜻함", "🚀 영감 부여", "🤝 협력"],
@@ -121,9 +107,7 @@ MBTI_DATA = {
         ],
     },
     "ENFP": {
-        "nickname": "활동가 🎉",
-        "emoji": "🌈",
-        "color": "#FF4081",
+        "nickname": "활동가 🎉", "emoji": "🌈", "color": "#FF4081",
         "gradient": "linear-gradient(135deg, #FF4081 0%, #F50057 100%)",
         "desc": "자유로운 영혼의 열정가! 사람과 아이디어를 연결하며 세상을 축제로 만듭니다.",
         "traits": ["🎊 열정적", "💫 창의적", "🌍 호기심", "💃 사교적"],
@@ -137,9 +121,7 @@ MBTI_DATA = {
         ],
     },
     "ISTJ": {
-        "nickname": "현실주의자 📋",
-        "emoji": "🏛️",
-        "color": "#607D8B",
+        "nickname": "현실주의자 📋", "emoji": "🏛️", "color": "#607D8B",
         "gradient": "linear-gradient(135deg, #607D8B 0%, #263238 100%)",
         "desc": "신뢰와 책임감의 화신. 전통과 규칙을 존중하며 묵묵히 맡은 바를 완수합니다.",
         "traits": ["✅ 책임감", "📏 체계적", "🔒 신뢰성", "📚 성실함"],
@@ -153,9 +135,7 @@ MBTI_DATA = {
         ],
     },
     "ISFJ": {
-        "nickname": "수호자 🛡️",
-        "emoji": "🌻",
-        "color": "#795548",
+        "nickname": "수호자 🛡️", "emoji": "🌻", "color": "#795548",
         "gradient": "linear-gradient(135deg, #795548 0%, #3E2723 100%)",
         "desc": "따뜻한 마음으로 타인을 돌보는 수호자. 헌신과 배려로 주변을 행복하게 합니다.",
         "traits": ["❤️ 헌신적", "🌿 배려심", "🏠 안정 추구", "🤝 협력적"],
@@ -169,9 +149,7 @@ MBTI_DATA = {
         ],
     },
     "ESTJ": {
-        "nickname": "경영자 📊",
-        "emoji": "🏆",
-        "color": "#F44336",
+        "nickname": "경영자 📊", "emoji": "🏆", "color": "#F44336",
         "gradient": "linear-gradient(135deg, #F44336 0%, #B71C1C 100%)",
         "desc": "질서와 효율의 화신. 규칙과 전통을 바탕으로 조직을 이끄는 타고난 관리자.",
         "traits": ["📋 조직력", "⚡ 실행력", "🎯 목표 달성", "👔 리더십"],
@@ -185,9 +163,7 @@ MBTI_DATA = {
         ],
     },
     "ESFJ": {
-        "nickname": "집정관 🤗",
-        "emoji": "🌺",
-        "color": "#FF5722",
+        "nickname": "집정관 🤗", "emoji": "🌺", "color": "#FF5722",
         "gradient": "linear-gradient(135deg, #FF5722 0%, #BF360C 100%)",
         "desc": "공동체의 화목을 이끄는 따뜻한 조력자. 다른 사람의 행복이 자신의 기쁨입니다.",
         "traits": ["🤗 사교적", "💖 배려심", "🎊 협력적", "🌟 헌신적"],
@@ -201,9 +177,7 @@ MBTI_DATA = {
         ],
     },
     "ISTP": {
-        "nickname": "장인 🔧",
-        "emoji": "⚙️",
-        "color": "#009688",
+        "nickname": "장인 🔧", "emoji": "⚙️", "color": "#009688",
         "gradient": "linear-gradient(135deg, #009688 0%, #004D40 100%)",
         "desc": "손재주와 논리로 무장한 실용주의자. 어떤 도구든 완벽하게 다루는 고요한 장인.",
         "traits": ["🔧 실용적", "🧩 문제 해결", "⚡ 즉흥적", "🔍 관찰력"],
@@ -217,9 +191,7 @@ MBTI_DATA = {
         ],
     },
     "ISFP": {
-        "nickname": "모험가 🎨",
-        "emoji": "🦚",
-        "color": "#8BC34A",
+        "nickname": "모험가 🎨", "emoji": "🦚", "color": "#8BC34A",
         "gradient": "linear-gradient(135deg, #8BC34A 0%, #33691E 100%)",
         "desc": "섬세한 감성과 유연함을 가진 예술가. 현재 이 순간의 아름다움을 만끽합니다.",
         "traits": ["🎨 예술적", "💚 자유로움", "🌿 자연 친화", "🦋 유연성"],
@@ -233,9 +205,7 @@ MBTI_DATA = {
         ],
     },
     "ESTP": {
-        "nickname": "사업가 💥",
-        "emoji": "⚡",
-        "color": "#FFC107",
+        "nickname": "사업가 💥", "emoji": "⚡", "color": "#FFC107",
         "gradient": "linear-gradient(135deg, #FFC107 0%, #E65100 100%)",
         "desc": "행동이 말보다 앞서는 현실주의 모험가. 위기를 기회로 바꾸는 타고난 감각을 보유합니다.",
         "traits": ["⚡ 행동력", "🎯 현실적", "🃏 순발력", "🌍 사교적"],
@@ -249,9 +219,7 @@ MBTI_DATA = {
         ],
     },
     "ESFP": {
-        "nickname": "연예인 🎤",
-        "emoji": "🎊",
-        "color": "#E040FB",
+        "nickname": "연예인 🎤", "emoji": "🎊", "color": "#E040FB",
         "gradient": "linear-gradient(135deg, #E040FB 0%, #6A1B9A 100%)",
         "desc": "삶 자체가 무대인 자유로운 엔터테이너! 사람들에게 에너지와 기쁨을 선사합니다.",
         "traits": ["🎉 활기참", "🌟 매력적", "💃 즉흥적", "❤️ 따뜻함"],
@@ -273,64 +241,53 @@ MBTI_GROUPS = {
     "🟡 탐험가형 (SP)": ["ISTP", "ISFP", "ESTP", "ESFP"],
 }
 
+# ── CSS ───────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Space+Grotesk:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap');
 
 * { font-family: 'Noto Sans KR', sans-serif; }
 
 .stApp {
     background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
-    min-height: 100vh;
 }
 #MainMenu, footer, header { visibility: hidden; }
-.block-container { padding: 2rem 3rem 4rem 3rem; max-width: 1200px; margin: 0 auto; }
 
-.hero-section {
-    text-align: center;
-    padding: 3rem 1rem 2rem 1rem;
-    position: relative;
-}
-.hero-section::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 50%;
-    transform: translateX(-50%);
-    width: 600px; height: 300px;
-    background: radial-gradient(ellipse, rgba(140,100,255,0.25) 0%, transparent 70%);
-    pointer-events: none;
-}
 .hero-title {
-    font-size: 3.2rem;
+    font-size: 3rem;
     font-weight: 900;
     background: linear-gradient(90deg, #a78bfa, #f472b6, #60a5fa, #34d399);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    text-align: center;
+    margin: 1rem 0 0.5rem 0;
     line-height: 1.2;
-    margin-bottom: 0.5rem;
 }
 .hero-sub {
-    font-size: 1.1rem;
+    text-align: center;
     color: rgba(255,255,255,0.65);
+    font-size: 1.05rem;
+    margin-bottom: 1.5rem;
+}
+.hero-badges {
+    text-align: center;
     margin-bottom: 2rem;
-    font-weight: 300;
 }
 .hero-badge {
     display: inline-block;
     background: rgba(255,255,255,0.08);
     border: 1px solid rgba(255,255,255,0.15);
     border-radius: 50px;
-    padding: 0.4rem 1.2rem;
+    padding: 0.4rem 1.1rem;
     font-size: 0.85rem;
-    color: rgba(255,255,255,0.7);
-    margin: 0 0.3rem;
-    backdrop-filter: blur(10px);
+    color: rgba(255,255,255,0.75);
+    margin: 0.2rem;
 }
 .section-header {
     font-size: 1.3rem;
     font-weight: 700;
-    color: rgba(255,255,255,0.9);
+    color: rgba(255,255,255,0.95);
     margin: 2rem 0 1rem 0;
     padding-left: 0.8rem;
     border-left: 4px solid #a78bfa;
@@ -339,9 +296,8 @@ st.markdown("""
     font-size: 0.9rem;
     font-weight: 600;
     color: rgba(255,255,255,0.6);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    margin: 1.5rem 0 0.6rem 0;
+    letter-spacing: 0.08em;
+    margin: 1.2rem 0 0.5rem 0;
 }
 div[data-testid="stButton"] button {
     width: 100%;
@@ -350,10 +306,8 @@ div[data-testid="stButton"] button {
     border-radius: 14px;
     color: white;
     font-weight: 600;
-    font-size: 0.95rem;
     padding: 0.7rem 0.5rem;
     transition: all 0.25s ease;
-    backdrop-filter: blur(8px);
 }
 div[data-testid="stButton"] button:hover {
     background: rgba(167,139,250,0.25);
@@ -369,70 +323,51 @@ div[data-testid="stButton"] button:hover {
     overflow: hidden;
     box-shadow: 0 20px 60px rgba(0,0,0,0.4);
 }
-.result-hero::before {
-    content: '';
-    position: absolute;
-    top: -50%; right: -20%;
-    width: 400px; height: 400px;
-    background: radial-gradient(circle, rgba(255,255,255,0.12) 0%, transparent 60%);
-    pointer-events: none;
-}
 .result-mbti-name {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 900;
     color: white;
     letter-spacing: 0.05em;
-    font-family: 'Space Grotesk', sans-serif;
-    text-shadow: 0 4px 20px rgba(0,0,0,0.3);
 }
 .result-nickname {
-    font-size: 1.5rem;
-    color: rgba(255,255,255,0.85);
+    font-size: 1.4rem;
+    color: rgba(255,255,255,0.9);
     font-weight: 500;
     margin-bottom: 1rem;
 }
 .result-desc {
     font-size: 1rem;
-    color: rgba(255,255,255,0.8);
+    color: rgba(255,255,255,0.85);
     line-height: 1.7;
-    font-weight: 300;
-    max-width: 600px;
+    margin-top: 1rem;
 }
 .result-big-emoji {
     font-size: 5rem;
     position: absolute;
-    right: 2.5rem;
-    top: 2rem;
+    right: 2rem;
+    top: 1.5rem;
     opacity: 0.85;
-    text-shadow: 0 8px 25px rgba(0,0,0,0.3);
 }
 .trait-chip {
     display: inline-block;
-    background: rgba(255,255,255,0.18);
+    background: rgba(255,255,255,0.2);
     border-radius: 50px;
     padding: 0.3rem 0.9rem;
     font-size: 0.85rem;
     color: white;
     margin: 0.2rem;
     font-weight: 500;
-    backdrop-filter: blur(6px);
-    border: 1px solid rgba(255,255,255,0.2);
-}
-.career-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
+    border: 1px solid rgba(255,255,255,0.25);
 }
 .career-card {
     background: rgba(255,255,255,0.06);
     border: 1px solid rgba(255,255,255,0.12);
     border-radius: 18px;
     padding: 1.3rem 1.4rem;
-    transition: all 0.25s ease;
-    backdrop-filter: blur(10px);
+    margin-bottom: 1rem;
+    min-height: 160px;
     position: relative;
-    overflow: hidden;
+    transition: all 0.25s ease;
 }
 .career-card:hover {
     background: rgba(255,255,255,0.10);
@@ -441,8 +376,8 @@ div[data-testid="stButton"] button:hover {
 }
 .career-icon {
     font-size: 2.2rem;
-    margin-bottom: 0.6rem;
     display: block;
+    margin-bottom: 0.5rem;
 }
 .career-job-name {
     font-size: 1.05rem;
@@ -452,15 +387,14 @@ div[data-testid="stButton"] button:hover {
 }
 .career-job-desc {
     font-size: 0.85rem;
-    color: rgba(255,255,255,0.6);
+    color: rgba(255,255,255,0.65);
     line-height: 1.5;
 }
 .career-rank {
     position: absolute;
     top: 0.9rem;
     right: 1rem;
-    font-size: 0.75rem;
-    color: rgba(255,255,255,0.3);
+    font-size: 1rem;
     font-weight: 600;
 }
 .fancy-divider {
@@ -474,19 +408,16 @@ div[data-testid="stButton"] button:hover {
     border-radius: 16px;
     padding: 1.2rem 1.5rem;
     margin-top: 1.5rem;
-    color: rgba(255,255,255,0.75);
-    font-size: 0.9rem;
+    color: rgba(255,255,255,0.8);
+    font-size: 0.92rem;
     line-height: 1.6;
 }
 .footer {
     text-align: center;
     padding: 2rem 0 1rem 0;
-    color: rgba(255,255,255,0.3);
+    color: rgba(255,255,255,0.4);
     font-size: 0.82rem;
 }
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); }
-::-webkit-scrollbar-thumb { background: rgba(167,139,250,0.4); border-radius: 3px; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -495,18 +426,16 @@ if "selected_mbti" not in st.session_state:
     st.session_state.selected_mbti = None
 
 # ── Hero ──────────────────────────────────────────────────────────────────────
-st.markdown("""
-<div class="hero-section">
-    <div class="hero-title">🔮 MBTI 직업 추천</div>
-    <div style="font-size:2rem; margin-bottom:0.5rem;">✨ Career Guide ✨</div>
-    <div class="hero-sub">나의 성격 유형에 딱 맞는 직업을 발견해보세요 🚀</div>
-    <div>
-        <span class="hero-badge">🧠 16가지 유형</span>
-        <span class="hero-badge">💼 96가지 직업</span>
-        <span class="hero-badge">🌟 진로 탐색</span>
-    </div>
-</div>
-""", unsafe_allow_html=True)
+st.markdown('<div class="hero-title">🔮 MBTI 직업 추천 ✨</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-sub">나의 성격 유형에 딱 맞는 직업을 발견해보세요 🚀</div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="hero-badges">'
+    '<span class="hero-badge">🧠 16가지 유형</span>'
+    '<span class="hero-badge">💼 96가지 직업</span>'
+    '<span class="hero-badge">🌟 진로 탐색</span>'
+    '</div>',
+    unsafe_allow_html=True
+)
 
 st.markdown('<div class="fancy-divider"></div>', unsafe_allow_html=True)
 
@@ -533,55 +462,63 @@ if st.session_state.selected_mbti:
     st.markdown('<div class="section-header">🌟 나의 MBTI 분석 결과</div>', unsafe_allow_html=True)
 
     traits_html = "".join([f'<span class="trait-chip">{t}</span>' for t in data["traits"]])
-    st.markdown(f"""
-    <div class="result-hero" style="background: {data['gradient']};">
-        <span class="result-big-emoji">{data['emoji']}</span>
-        <div class="result-mbti-name">{mbti}</div>
-        <div class="result-nickname">{data['nickname']}</div>
-        <div style="margin-bottom:1rem;">{traits_html}</div>
-        <div class="result-desc">{data['desc']}</div>
-    </div>
-    """, unsafe_allow_html=True)
+    hero_html = (
+        f'<div class="result-hero" style="background: {data["gradient"]};">'
+        f'<span class="result-big-emoji">{data["emoji"]}</span>'
+        f'<div class="result-mbti-name">{mbti}</div>'
+        f'<div class="result-nickname">{data["nickname"]}</div>'
+        f'<div>{traits_html}</div>'
+        f'<div class="result-desc">{data["desc"]}</div>'
+        f'</div>'
+    )
+    st.markdown(hero_html, unsafe_allow_html=True)
 
     st.markdown(f'<div class="section-header">💼 {mbti} 유형에게 추천하는 직업 TOP 6</div>', unsafe_allow_html=True)
 
+    # ★ 핵심 변경: 카드를 st.columns()로 출력 (HTML grid 대신)
     careers = data["careers"]
-    cards_html = '<div class="career-grid">'
-    for idx, c in enumerate(careers):
-        top_badge = "🥇" if idx == 0 else ("🥈" if idx == 1 else ("🥉" if idx == 2 else f"#{idx+1}"))
-        cards_html += f"""
-        <div class="career-card" style="border-top: 3px solid {data['color']}80;">
-            <span class="career-rank">{top_badge}</span>
-            <span class="career-icon">{c['icon']}</span>
-            <div class="career-job-name">{c['job']}</div>
-            <div class="career-job-desc">{c['desc']}</div>
-        </div>
-        """
-    cards_html += '</div>'
-    st.markdown(cards_html, unsafe_allow_html=True)
+    badges = ["🥇", "🥈", "🥉", "#4", "#5", "#6"]
 
-    st.markdown(f"""
-    <div class="tip-box">
-        💡 <strong>진로 탐색 TIP!</strong><br>
-        추천 직업은 {mbti} 유형의 강점과 성향을 기반으로 선정된 것입니다.
-        실제 직업 선택 시에는 개인의 관심사, 역량, 환경을 종합적으로 고려하세요.
-        🔍 각 직업에 대해 더 깊이 알아보고 싶다면 관련 학과, 자격증, 현직자 인터뷰를 참고해보세요!
-    </div>
-    """, unsafe_allow_html=True)
+    # 3열씩 2줄로 표시
+    for row in range(2):
+        cols = st.columns(3)
+        for col_idx in range(3):
+            idx = row * 3 + col_idx
+            c = careers[idx]
+            with cols[col_idx]:
+                card_html = (
+                    f'<div class="career-card" style="border-top: 3px solid {data["color"]};">'
+                    f'<span class="career-rank">{badges[idx]}</span>'
+                    f'<span class="career-icon">{c["icon"]}</span>'
+                    f'<div class="career-job-name">{c["job"]}</div>'
+                    f'<div class="career-job-desc">{c["desc"]}</div>'
+                    f'</div>'
+                )
+                st.markdown(card_html, unsafe_allow_html=True)
+
+    tip_html = (
+        f'<div class="tip-box">'
+        f'💡 <strong>진로 탐색 TIP!</strong><br>'
+        f'추천 직업은 {mbti} 유형의 강점과 성향을 기반으로 선정된 것입니다. '
+        f'실제 직업 선택 시에는 개인의 관심사, 역량, 환경을 종합적으로 고려하세요. '
+        f'🔍 각 직업에 대해 더 깊이 알아보고 싶다면 관련 학과, 자격증, 현직자 인터뷰를 참고해보세요!'
+        f'</div>'
+    )
+    st.markdown(tip_html, unsafe_allow_html=True)
 
 else:
-    st.markdown("""
-    <div style="text-align:center; padding: 4rem 2rem; color: rgba(255,255,255,0.3);">
-        <div style="font-size:4rem; margin-bottom:1rem;">🔮</div>
-        <div style="font-size:1.2rem; font-weight:500;">위에서 MBTI를 선택하면</div>
-        <div style="font-size:1rem; margin-top:0.5rem;">나에게 맞는 직업 추천이 나타납니다 ✨</div>
-    </div>
-    """, unsafe_allow_html=True)
+    placeholder_html = (
+        '<div style="text-align:center; padding: 4rem 2rem; color: rgba(255,255,255,0.4);">'
+        '<div style="font-size:4rem; margin-bottom:1rem;">🔮</div>'
+        '<div style="font-size:1.2rem; font-weight:500;">위에서 MBTI를 선택하면</div>'
+        '<div style="font-size:1rem; margin-top:0.5rem;">나에게 맞는 직업 추천이 나타납니다 ✨</div>'
+        '</div>'
+    )
+    st.markdown(placeholder_html, unsafe_allow_html=True)
 
 # ── Footer ────────────────────────────────────────────────────────────────────
-st.markdown("""
-<div class="fancy-divider"></div>
-<div class="footer">
-    ✨ MBTI Career Guide &nbsp;|&nbsp; 🎓 진로 교육용 서비스 &nbsp;|&nbsp; 💜 Made with Streamlit
-</div>
-""", unsafe_allow_html=True)
+st.markdown('<div class="fancy-divider"></div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="footer">✨ MBTI Career Guide &nbsp;|&nbsp; 🎓 진로 교육용 서비스 &nbsp;|&nbsp; 💜 Made with Streamlit</div>',
+    unsafe_allow_html=True
+)
