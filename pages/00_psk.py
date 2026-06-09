@@ -7,10 +7,10 @@ from datetime import datetime, timedelta
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="📈 글로벌 TOP 10 주식 대시보드",
-    page_icon="💹",
+    page_title="✨ MBTI 직업 & 도서 추천 | Career Guide",
+    page_icon="🔮",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="expanded",  # ← collapsed에서 expanded로 변경
 )
 
 # ── Global Top 10 Stocks (2026 기준) ─────────────────────────────────────────
